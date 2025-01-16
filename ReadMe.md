@@ -13,8 +13,8 @@ A mathematical model can be used to perfectly fit experimental data given enough
 2. UV-vis spectra were extracted for each peptide species.
 3. These spectra, which had minimal peak overlap, were fit with 1-3 peaks in the "Individual_spectral_deconvolution" notebook.
 4. A standard curve of the oxHHGY peptide mixture was made via 2-fold serial dilution of the sample and measure in a 1 cm quart cuvette on a Varian Cary 50 UV/visible spectrophotometer.
-5. The dilutions of the standard curve were fit using the peak parameters calculated in the first notebook to provide good guesses and bounds that could be associated with actual chemical structures.
-6. Fit peak data was extracted and further analyzed in GraphPad Prism software.
+5. In the notebook "StandardCurve_Deconvolution," the dilutions of the standard curve were fit using the peak parameters calculated in the first notebook to provide good guesses and bounds that could be associated with actual chemical structures.
+6. Fit peak data was extracted and further analyzed in GraphPad Prism software. This lead to the "ExtCoeffPlot" which shows the plotted absorbances vs concentration of each Fit peak, and the trendline equation containing the extinction coefficient for selected peaks.
 
 ## Conclusions
 Individual absorbance bands were resolved by this procedure, which allowed for better estimation of sample contration and calculation of extinction coefficients. When the spectral data was matched with the mass spectrometer, it was revealed that oxygenated, crosslinked, and multimerized peptides were the primary contributors to oxHHGY's novel absorbance.
