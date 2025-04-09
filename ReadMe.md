@@ -20,7 +20,7 @@ A mathematical model can be used to perfectly fit experimental data given enough
 ## Conclusions
 Individual absorbance bands were resolved by this procedure, which allowed for better estimation of sample contration and calculation of extinction coefficients. When the spectral data was matched with the mass spectrometer, it was revealed that oxygenated, crosslinked, and multimerized peptides were the primary contributors to oxHHGY's novel absorbance.
 ## References
-This code supports the conclusions reported in "Intramolecular Histidine Crosslinks Formed via Copper-Catalyzed Oxidation of Histatin Peptides" by Bontreger et al. _Submitted for publication._
+This code supports the conclusions reported in ["Intramolecular Histidine Cross-Links Formed via Copper-Catalyzed Oxidation of Histatin Peptides"](https://pubs.acs.org/doi/10.1021/jacs.5c01363) by Bontreger et al.
 
 References consulted include:
 -  Eric Monson, Ph.D., data visualization analyst at Duke University Libraries' Center for Data and Visualization Sciences
